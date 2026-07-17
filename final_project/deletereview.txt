@@ -1,0 +1,1 @@
+{"message":"Review for the ISBN 1 posted by user user4 deleted.","reviews":{}}
